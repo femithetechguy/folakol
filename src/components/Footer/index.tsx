@@ -56,7 +56,7 @@ const Footer = ({ t }: any) => {
               <Para>
                 {t(`Do you have any question? Feel free to reach out.`)}
               </Para>
-              <a href="mailto:l.qqbadze@gmail.com">
+              <a href="mailto:folakol.tech@@gmail.com">
                 <Chat>{t(`Let's Chat`)}</Chat>
               </a>
             </Col>
@@ -154,10 +154,7 @@ const Footer = ({ t }: any) => {
                 href="https://www.linkedin.com/in/aekolawole/"
                 src="linkedin.svg"
               />
-              <SocialLink
-                href="https://www.adefemikolawole.com"
-                src="notes.svg"
-              />
+              <SocialLink href="https://www.folakol.com" src="notes.svg" />
             </FooterContainer>
           </Row>
         </Container>
